@@ -31,6 +31,11 @@ Created using [Godot 3.5.1](https://godotengine.org/download)
 -added theme for text and buttons
 -ball trail
 -sound effects
+-music
+-bricks fall off screen after hit
+-screen shakes when lose life
+-animated paddle
+-animated ball
 
 >>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
 
