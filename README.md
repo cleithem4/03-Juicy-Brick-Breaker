@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-# Exercise-03d-Shaders
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
-=======
 # Juicy Brick Breaker
 
 A juicier brick breaker
 February 25th, 2023
 
 
->>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
 
 ## To play
 
@@ -19,9 +12,10 @@ Move the paddle using the mouse. Release the ball (and trigger fever mode) using
 
 ## Implementation
 
-<<<<<<< HEAD
+
 Created using [Godot 3.5.1](https://godotengine.org/download)
 =======
+## Effects added:
 -Eyes looking towards ball
 -Mouth that moves depending on ball location
 -Shaders
@@ -37,32 +31,12 @@ Created using [Godot 3.5.1](https://godotengine.org/download)
 -animated paddle
 -animated ball
 
->>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
-
-Face sprites created by the author at Piskel.com
-
 ## References
- * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
- * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
- * [Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
- * [Open Color open source color scheme](https://yeun.github.io/open-color/)
- * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
- * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
- * Shaders:
-	 * [Fire Effect by Tsar333](https://godotshaders.com/shader/fire-effect/)
-	 * [Fireworks by Tsar333](https://godotshaders.com/shader/fireworks/)
-	 * [2D Procedural Water by flytrap](https://godotshaders.com/shader/perlin-procedural-water/)
+none
 
 ## Future Development
-
-Power-ups, etc.
+None
 
 ## Created by 
 
 Cody Leithem
-
-<<<<<<< HEAD
-=======
-## Created by
-Cody Leithem
->>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
