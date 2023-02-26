@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 # Exercise-03d-Shaders
 
 Exercise for MSCH-C220
 
 The final step adding "juicy" features to a simple brick-breaker game.
+=======
+# Juicy Brick Breaker
+
+A juicier brick breaker
+February 25th, 2023
+
+
+>>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
 
 ## To play
 
@@ -10,7 +19,20 @@ Move the paddle using the mouse. Release the ball (and trigger fever mode) using
 
 ## Implementation
 
+<<<<<<< HEAD
 Created using [Godot 3.5.1](https://godotengine.org/download)
+=======
+-Eyes looking towards ball
+-Mouth that moves depending on ball location
+-Shaders
+-Made bricks move around in circle using tween
+-Added fever effect
+-balls bouncing around in main screen
+-added theme for text and buttons
+-ball trail
+-sound effects
+
+>>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
 
 Face sprites created by the author at Piskel.com
 
@@ -34,3 +56,8 @@ Power-ups, etc.
 
 Cody Leithem
 
+<<<<<<< HEAD
+=======
+## Created by
+Cody Leithem
+>>>>>>> 6621283e9bb2fa7abe745a681faf719b2d58180a
