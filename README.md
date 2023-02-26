@@ -1,13 +1,23 @@
-# Project Name
+# Juicy Brick Breaker
 
-Context and date
+A juicier brick breaker
+February 25th, 2023
 
-Description
+
 
 
 ## Implementation
 
-Which features you included
+-Eyes looking towards ball
+-Mouth that moves depending on ball location
+-Shaders
+-Made bricks move around in circle using tween
+-Added fever effect
+-balls bouncing around in main screen
+-added theme for text and buttons
+-ball trail
+-sound effects
+
 
 
 ## References
@@ -17,3 +27,4 @@ Which features you included
 
 
 ## Created by
+Cody Leithem
